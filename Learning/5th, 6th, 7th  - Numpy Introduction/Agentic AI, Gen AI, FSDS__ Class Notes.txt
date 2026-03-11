@@ -1,0 +1,973 @@
+==============
+FSDS with Gen AI & Agentic AI @ 7:00 PM (IST) by Mr. Prakash Senapati From 2nd Jan
+
+👉🏻Live Zoom Class Link : https://zoom.us/j/82006090582
+==============
+
+=== 11th
+
+how much coding is required 
+
+not like java, not like c, c++ but 50% coding is required 
+
+ 1 - Basic python -- python datatypes, python datastrucutre, operator, bitwise operatior, 
+ 2 - Advance python -- condition statement 
+								loops -- while & for , while else, for else  
+								function 
+								lambda function 
+								fun argument 
+								local, global
+								recursion 
+								generatr
+								iterator 
+								multithreading 
+					
+3- OOPS  -- Object oriented programming language 
+			class
+			object 
+			method 
+			encapsulation 
+			inherietence
+			polymorphism
+			abstraction 
+
+with indepth analys sir	
+4- GeeksforGeeks code practicle online website 
+5- HackerRank little compition 
+6- Leetcode ( Begineer lever -- 30lpa) 
+
+
+
+Active listerning 
+Take notes 
+Taily practise 
+answer my query
+give interview 
+fail interview 
+clearn 1st round faile 2nd roung 
+clearn1 st, 2nd ,, fail in hr 
+job offer 
+
+=== Live project technical terms (capstone project)
+BFSI domain  
+		Banking domain is alwasy live 
+				experiene employee -- mention few project on bank domain 
+							Risk anlayais project 
+							1l customer exit from sbi bank -- how to prevent these customer
+							
+	INSUREANCE -
+	FINANCE 
+	SERVICE 
+	
+if user or develper try to these project in the resume ( live project) 
+										
+			humena intelligen apply to machine so that machien will mimic human behative AI 
+
+machine act like human 
+				framework -- kimi k2 -
+				
+					
+	ml 
+	ai 
+	genai 
+	agentic ai 
+	
+recommend you to watch only comedgy -- ml recommandation algoriytm 
+amazon -- 7r back -- laptop - 
+laptop -- mouse + screend ( ai technique ) -- amzon bsiness will increate 
+whatsapp, -- it will recommand you next prediction word ( rnn lstm algoriytm ) 
+		long short term memory ( neural network) 
+		
+1- AI JOB 
+2- BUSINESS 
+3- STOCK  
+4- other job -- survive (Help Others) 
+
+these examply i gave to my dear leernar please understand AI will be taken all the industry 
+this is for 
+	
+== enrollement & registration opent please talk to areef payment done
+== please join in google classromm 7pm batcc 
+
+== 12th
+
+3 session -- if you are some one joined for the 1st time i wills hare the recording link to you 
+			also at end fo the session i will revise again 
+	
+	i will explain at last 10 min for 3days previos lecture & also i will be recording to you. 
+	
+genai learning 
+agentic ai learning 
+ml prediction model 
+ai modle 
+
+=== PYTHON PROGRAMMIN LANGUAGE 
+=== create folder -- you store all the personal file 
+=== we can keep our pictur else			( social media) 
+=== every one must need to create socila codeing repository - github.com 
+		
+every day task, project, practickse -- you must need to commint in git repo 
+
+repository -- folder -- gitghub -- files 
+
+using github repository -- cicd pipeline ( continuos integration continuous deployment) 
+		automation project 
+		
+github is mandatory for everyone 
+
+==== agenda for today topic 
+
+1- revised yesterday explanation -- completed 
+2- how to create git account -- completed 
+3- intro python -- 
+4- revise for new learner 5min 
+5- q & a 
+
+== steps to create github 
+--
+
+1- Gmail account 
+2- Google -- github.com
+3- signup with your personal gmail account 
+4- click on repsository  -- agentic ai devoper
+5- upload the existing file -- drag any code 
+6- share me that reposiratoyr
+7- in your resume you need to mention those code respository 
+8- if your ystem crashed all code wil delated 
+9- git account can you downlado 
+10- oragnzation 1 project - 1manager -- 10 emply
+11- manger project github -- share to 10 employe 
+12- every day code emply can shared on daily baisis 
+13- can you please create a github repository and update me 
+14- today you will see installation of the video after the class please do that 
+
+why we need to learn python ?
+
+python can intergate -- backend, frontend, web scrapping, scripting, cloud, llm , genai, ml, data anltic 
+python are not using in mobile developer , 
+
+except mobile it implement everywheare 
+added this feature 
+
+1st -- numbers 
+
+try to understand error then the code will fix 
+
+when to user print() when to not use print() 
+
+if you write only one line code -- print is not reuqired 
+execute multiple line of code - print is required 
+
+_ means it store previsus value 
+
+
+generative ai vs agentic ai 
+
+generative ai -- ai generate code, content,
+					-- physical developer physical agent copy the code past in vs code		
+					-- app will create 
+					
+==== 13th 
+
+1- please scan qr code and also downlado 4 days recording link & i will reexplain at end of the session
+
+gtts -- google text to speech 
+import audio 
+
+music -- .mp3 | .wav 
+pdf -. pdf
+word - .doc 
+python code -- .py 
+text file -- .txt 
+excel file - .xlcx
+video -- .mp4
+
+LGBM -- LIGHT GRADIENT BOOSTING MACHINE ( company) 
+poc -- text to audio ( AI ) 
+PYTHON --- STATS -- EDA -- ML -- AI -- DL & NN -- GEN AI -- AGENTIC AI 
+
+some time ml modelwill fail 
+ml model fail when data image, video, text, sensor , ml model 
+
+NLP -- Natural language processing 
+
+TEXT & AUDIO -- Natural langugae process, RNN, LLM model 
+IMAGE, VIDEO --- cnn, computer vision, multi model ( gen ai model) 
+NUMBER -- model ml 
+
+===   
+3 Software 
+
+1- vs code 
+2- anaconda -- jupyter , spyder
+3- pycharm 
+4- google colab 
+
+=== Python code 
+
+1-- Data exploration and transformation -- Library (Numpy & Pandas) 
+2-- visualization -- matploltlib & seaborn 
+3- AI and Machine Learning -- scikit-learn | TensorFlow | Keras | PyTorch | XGBoost| lgbm
+4- NLP -- NLTK | Gensim | Transformers | SpaCy
+5- Frontend -- Flask , gradio, streamlit, fastapi
+		
+==== 16th
+
+I will take the backup classes for new enroleed student 
+---
+python -->
+---
+Python introduction-->
+
+
+60min -- we will continue th elcasses 
+15min - backup classes for new student & I will provide the recording 
+15min- q & a 
+ 
+ everyone install anaconda 
+ google colab -- 
+
+local system --- personal laptop 
+data base or server in your server -- local server 
+
+
+if you are not installed anconda application -- please go head work with google colab 
+vs code -
+
+1- python is object oriented programming language 
+2- python is easy programing language
+3- everybody can learn python 
+4- why to learn python -- compare java, c, c++ -- it is damn easy & no. 1 in the world 
+5- Guido van Rosam is the father or founder of python 
+6- python name came from fun tv show -- BBC CHANEEL ( complete montys python flying circus) 
+7- python release on 1989 java relase 1995 
+8- python was old programming but at that time no body used it till 2014  
+9- cuz of ml, ai, gen ai, llm model -- all those ( 2026) 10yr no 1 -- 10-15yr for sure 
+10- current market trend is -- ml, ai, gen , llm ,agents, robot, dront, computer vision , 
+11- python is platform independent (
+			window | mac | linux 
+			write one line code in python that code can implment in wind, mac, linux 
+12- 	pyhton cannot used android application 
+13- cpython, jpython, ruby python,, big data, ds, llm model, gen -- anaconda python 
+16- this anaconda i can access throught vs code as well (visual studio code) 
+17- python 1.0 launc 1st jan 1994 | 2.0 introduc on 2000 | 
+		python 3.0 introduce on dec 2008 | 
+		2016, 2017, --- 
+18 -- import sys | sys.version 
+19-- ide ( integrated development environment) 	
+			user will write the code, get the error (bugs( | fix the bug(debugging) 
+		vscode, jupyter, spyder, pycharm, etc
+20-  interpreter vs compiler 
+		interpreter - execute the code  line by line or gropu of code at once  
+		compiler -- entire code run at once 
+	python is both interpreter vs compiler 
+	
+21- python developer, frontend, backed, cloud, devops 
+
+python introduce we are completed 
+
+1st concept of pytho -- 
+python has name == variable == object == identifier 
+syntax of variable -->
+variable name = value 
+ a = 5 
+ a - variable 
+ 5 - value 
+ value also called as datatype 
+what is variable 
+what is value 
+how to define variable 
+rules 
+----
+steps to install vs code -->
+----
+1- google -- vs code - download - install 
+
+2- extension & install the extension 
+	AREPL for python
+	autoDocstring - Python Docstring Generator
+	Code Runner
+	CodeSnap
+	Github copilot 
+	Jupyter 
+	CodeSnap
+	Markdown PDF
+	Office Viewer
+	Python Image Preview
+	Python Extension Pack
+
+3- Install python from google-- downl python install manger  
+		please click one option as can you add as environment variable (yes) 
+4-  cmd -- path location -- you go that path location -- create folder 
+5-  vs code 
+6- offline team if you have any issure on intallation lab will be open 9am -- 7pm 
+			any time come up ( 7pm ) mentor will guide (3hr ) 
+		
+=== 17th  
+---
+AGENDA  -->
+---
+1- variable creation & rules to define python variable 
+2- introduce to python datatypes  | dataype we will work 
+3- joined the batch -- do you got any issue 
+4- how learnes can downlaod the file from the google classrrom & how to upload your code 
+5- i will revise back up classes for 
+
+1- today onwards every code must goes to github 
+2- anaconda have you install & vs code install 
+3- if you are facing any issue while install the software please connect to our mentor 
+			offline team go 3rd 
+			online team please readh out link which i provided 
+
+when you raise your hand -- i will speak with you atlast 
+
+if you are speed juster take note 
+| without practice you 
+
+c, java -- every programing language has some keywords 
+if you understa all the keywords or reserve words python is copleted 
+
+False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+
+
+1- varible never start with digit  but variables are end with digit
+2- variable case sensitive ( if user create a variable with lower case user must call with lower case only ) 
+3- special character is not allowd except _
+4- keywords never declare as variable 
+		keywords == reserve words 
+		if you guyer complete 35 keywords then python progrem is completed 
+
+what is variable & rules & regulation to define variable 
+
+DATA TYPE -->
+	INT  - value without decimal 
+	FLOAT
+	BOOL
+	COMPLEX 
+	STRING 
+
+
+- function alwasy ends with 
+		inbuild function -- print() id() len() max() 
+		
+		user defin function 
+
+9hr -- you will do only practicle 
+collge-- 9hr only thereo + filly time pass 
+every day what 9 hr ++ that time hsheet -- client -- see that 
+montly salyry will elease 
+====
+
+family1()  -- 
+family2(dad, mom) -- 2 
+family3(dad, mom, son, daugher ) -- 4 paramter 
+
+chatgpt () trained with 405 billion mparete  -- larlge langer 
+
+chatgpt(405 billion ) -- gpu laptop 
+
+1- after join this course please give your proper gmail id to areef 
+2- your gmail will disply in google classrrom 
+3- every day you receive zip file from me 
+4- google -- download winzip or winrar -- download and install the notes 
+5- click the file which i will be share on daily basis -- right side top corner 3 dots 
+6- open new tab- download the file 
+7- might face issure for the 1st time -- please ask again, i will explain one more time 
+
+=== 17th 
+
+Who ever jioned for the 1st time i will take the backup classes so we just starte basic code in python 
+
+id() -- address of the memory location 
+
+1- Demo session () | 15min 
+			6 video ( you can watch it also i will revise)
+2- software installation ( anaconda, vs code, google colab) 
+		i will share to 
+3- python introduction 
+		
+4- variable 
+
+4 part we are completed in 7days 
+
+number - integer 
+text - string 
+       char | varchar 
+
+inbuild() == builtin()
+
+inbuild() -- parameter tunning 
+user change the inbuild parameter --= hyperparater tunning 
+
+
+variable = value 
+value also called datatype 
+
+	int -- value without decimal 
+	float -- value with decimal onle e letter is allowed 
+			only e letter is allowed 
+	bool -- True | falas
+	complex -- completex only j letter is allowed J but no other is allowed 
+	string 
+
+a + bj 
+a - real part 
+b - imaginary part 
+j - squre root of -1 
+
+if user has -- single line then please use '' or " " 
+if user has -- multiline comment then please use ''' ''' 
+
+day by day text are incresing | when text are increate we need llm mode has born 
+large languge model 
+	
+	claude (antropic) -- MCP (MODEL CONTENX PROTOCOL) 
+	chatgpt ( openai) 
+	gemini	(google deepmind research company for google) 
+	llama (facebook or meta) 
+	deepseek (deepseek) 
+	grok (xai) 
+	kimi (moonshot ai) 
+	qwen (alibaba) 
+	
+
+explantatio + dedication listenc + practise + 4-5) == offer 40lpa - 50lpa  == 1cr 
+6month -- 1yr 
+1class == 1day ( slowly) 
+
+=== 19th 
+Agenda -->
+--
+while i am speaking if you not understand any words any technical please write down 
+	please ask me -- 
+
+1- type casting 
+2- print() 
+3- I will share some document today home task 
+
+did you understan how to download class notes from google classrrom 
+
+type casting type conversion 
+we are convert one datatype to other datatype
+
+float - int 
+in typecasting you cannot pass 2 argument at once , bydefaul only 1 argument we can allowed 
+----
+Other datatypes to int type conversion -->
+-----
+1- float to int type casting possible 
+2- bool to int possib
+3- complex to int type casting is impossible 
+4- number string to int is possibel but text string to int is not possible 
+
+----
+Other datatypes to float type conversion -->
+-----
+1- int to float type casting possible 
+2- bool to float possib
+3- complex to float type casting is impossible 
+4- number string to float is possibel but text string to float is not possible 
+			
+----
+Other datatypes to complex type conversion -->
+-----
+1- int to complex but hear only 2 argument cuz ( real, imaginary) 
+		complex(10) -- 10 + oj 
+		complex(10, 20) -- 10 + 20j 
+		complex(10, 20, 30) -- errrr ( user you pass 3 argument i can accept only 2 argument) 
+
+2- float to complex 
+3- Bool to complex 
+4- String to complex ( only 1 number string is possible 2 number string would be not possible) 
+		text string also not possible 
+---	
+Type casting -->
+---
+1- all other datatype to int, float, complex 
+
+======= 23rd
+AGENDA -->
+----
+1- Revise previous session -- completed  
+2- Discussion on previous assignment -- completed  
+2- Type Casting -- completed 
+3- Python operator -- completed 
+4- String indexes -- completed 
+6- Question & Answer - completed 
+7- New learner back up classes - 1 st class is going on
+
+
+print with format funciton 
+		number of variable == number of {} 
+				.format(variable as argument)
+
+other datatype bool is possible 
+== other datatype to string is possible 
+python type casting we are completed 
+
+== python operators 
+
+1- Arithmetic operator  -- +, -, *, / , //, %, ** 
+2- Assignment -- =, +=, -=, *=, /=, //= , %= 
+3- Relational >, <, >=, <=, ==, != 
+4- Unary - - 
+5- Logical -- truth tabel ( AND, OR, NOT) 
+			1 and 1 - 1 & rest of them are 0 
+			0 or 0 - 0 & rest of them are 1 
+			
+python operator we ar completd 
+
+------
+String indexing & slicing --->
+-----
+
+python index begins with 0 and end with n-1 
+	1- forward indexing >>> ( left - right) | begins with 0 
+	2- backward indexing <<< (right to left) | begins with -1  
+
+forward indexing & backward indexing we one value  
+what if i wnated to prinect 3words together thats why lets introcue slicing : 
+
+===  24th
+
+1- string slicing 
+2- number system 
+3- bitwise operator 
+4- question & answer 
+
+inbuild function -- python itself --> print() | type() | id() | len() 
+In slicing --> left index alway starting point but right index alwasy need to apply n-1 formula 
+
+0- s[:] --> print all string 
+1- s[2:10] --> print from 2nd index to n-1 index which is 9th index 
+2- s[ :10] --> s[0:10]-- print the value from start index to 9th index 
+3- s[4: ] -->  print from 4th index till end or last 
+4- s[1:10:3] --> print 3rd step index from 1st index to 9th inex -- forward index 
+5- s[::1] - print only 1st step index from 1st to last  (step slicing  
+6- s[::2] -- print only 2nd step index from 1st to last (step slicing 
+7- s[::-1] -- backward step slicing 
+8- s[::-2] -- -2 step backward slicing 
+
+forward slicing --> [2:8:3] 
+backward slicing --> [-10:-1: 2]
+step slicing --> [::3] | [::-1]
+
+string slicing 
+datastructure slicing 
+matrix slicing 
+pandas slicing 
+machine learning slicing 
+
+=== 25th 
+
+Number system 
+	binary --> base 2 --> 0b 
+	octal --> base 8 --> 0o
+	decimal --> base 10 --> 0x
+	hexadecimal --> base 16 --> 0x 
+	
+if you are non technique my personal friendly suggestion is please take the recording 
+	algorithm
+	
+why we studey number system it will help to understand bitwise operator 
+without number system noboyda understand bitwise operator 	& it will help to create ip address so that every ip address are unique 
+---
+BITWISE OPERATOR -->
+----
+  1- complement ~ 
+  2- and (&)
+  3- or (|)
+  4- xor xclusive or (^)
+  5- left shift << 
+  6- right shift >> 
+  
+1- complement 
+			memory we cannot store -ve value only 1 way to store -ve value is ~
+			1scomplemt + 1 == value + 1 == store with -
+2- and & 
+		1 & 1 is 1 rest of them are 0 
+3- or | 
+4- xor ( xclusive or) ^ 
+5- left shift << - gain the bit 
+6- right shift >> -- losse the bit 		
+
+=== 26th 
+package | module | function 
+
+scaler -- singl number 
+vector -- collection of scaler 
+matrix -- collection of vector  
+tensor -- collectio of matrix  
+
+framework == collection of package 
+package == library  (collectin of module) 
+module = collection of function 
+
+
+python we have only variable no concept of constant 
+
+if you want call any pkg or moduue 
+	use keywords -- import or from 
+call the function - . 
+
+
+4th grade -- 4th math cocept -- it wil tough for her 
+5th grade - 4th gradie -- easy 
+6th grade - 4th grade -- very easy 
+7th grade - 4th degree- very very easy ( explain ) 
+
+when you spend some time -- thins would be clear 
+
+today session when i teach you it might be tough in same days 
+tomor today topic easy 
+day after tomor today very easy 
+
+basic python =-- 
+data strcuture -- 
+mathd 
+ml -- stat, python 
+ai -- ml is easy 
+
+gen ai -- ai & ml easy 
+agenci -- gen , ll, ai, easy 
+
+today -- they give up ( calm down, patence, review , work , succes) 
+			
+import nareshitechnolgoy as nit 
+	
+https://docs.python.org/3/library/math.html
+from math import * 
+
+input() -- bydefault understand string 
+if user wanted to convert string to int () type casting 
+if user wnat to slicing you can string slicing 
+eval input read the expression 
+
+==== BASIC PYTHON WE ARE COMPLETED 
+
+==== 27th
+===== Python Inbuild Data Structure -->
+
+data type vs data structure 
+
+datatype -- user define only 1 value 
+		int 
+		float
+		string
+		bool
+		complex 
+datastructure-- user define more then 1 value 
+	list 
+	tuple
+	set 
+	dict 
+	range 
+	
+=== 2nd 
+1 - list indexing, slicing 
+2- list sort(), reverse 
+3- tuple 
+4- some task to work 
+5- list is mutable | once you define the value user can change atny time 
+
+l1 = [1,2, 3] 
+
+l1[::-1] == 3, 2, 1 
+l1.reverse = 3,2,1
+
+l1.sort() -- alwasy work with similar datatypes 
+		if you pass different datatype then it throgh you an error 
+
+=== TUPLE-->
+
+
+		
+
+
+
+
+
+
+
+
+
+
+list -->
+	[] - squre bracket 
+	append() -- add the number at last 
+	duplication is allowed in list 
+	copy() -- copy from 1 list to another list  
+	mutliple datatype can we declare 
+	list is growable 
+	nested list -- list in list 
+	clear() -- clear the element from the list 
+	count()- count the number of number of occurance 
+	extend()- exten one list to other ( concatenation)
+	pop() -- if you dont pass any argument then only it will remove last value 
+					delate & display last value 
+					
+	pop(3) -- 3rd index value removed 
+	
+	
+Tuple -->
+
+- user  can define multiple datatypes 
+- duplication is allowed 
+
+1- open c : drive - cmd -- python ( let me know if not working) 
+2- ananconda -- base coman -- python 
+3- what is cli ( command line interpreter) 
+4- we can run the python code from notepad 
+
+=== 3rd 
+==== Set datastructure 
+
+list == []
+tuple == () 
+set == {} -- curly braces 
+
+	s = {} == it will turn out to dict 
+	s = {10, 20, 30 }- set 
+
+after 5 mont, 6month -- vs code -- 1st folder -- code will 2nd -- code will not run 
+
+1- where is your cmd  prompt (which path) 
+ 
+ system cmd == vs code terminal 
+	if not matched -- your future code will not works 
+	
+2- create folder inside cmd path 	
+		c:\user \admin\avscode 
+		
+3- when you opne vs code you must connect to path 
+
+4- do not create folder -- create subfolder 
+			python 
+			ml 
+			gen ai
+			deep learing 
+			agentic ai 
+			
+
+
+append() -- add the element or value at last 
+add() - add the vlaue random 
+indexing & slicing in set() is not allowed 
+
+set{} -- if you pass only same datat then order is allowed 
+set -- mix datatype you might not get order 
+
+discard()-- never ever give you an error 
+			if value is avolan in set ( then it will delate )
+			if value is not availabe in set ( it will not give your erro) 
+			
+.add()  | .clear | .copy() | .discard() | .remove() | .pop() |  
+
+---
+Set operation -->
+---
+
+.union | add the 
+.intersec & give the common evalue 
+.difference -  what common item it will remove first variable 
+.isymmetricdifference   --  common item and print both 
+
+superset() -- dad 
+subset() -- son 
+disjoint() -- neighbour 
+
+cmd prompt == vs code terminsl 
+python code is workin for you 
+
+=== 4th 
+dict --> keys : values 
+
+pop() -- in dict user need to pass key then vlaue 
+popitem()- redom key & value 
+
+
+after the class 
+list, tuple, set, range, dict 
+
+===
+PACKAGE - COLLECTION OF MODULE  
+MODULE -- COLLECTION OF FUNCTION 
+FUNCTION -- () 
+
+NUMPY is module 
+numpy module has 217 function 
+
+module divide 2 part 
+	Inbuild module 
+	User deffine module 
+		
+matrix -- librar which handle matrix -- array ( numpy module handle this) 
+
+image - array | arrray - image 
+text - array | array - text 
+
+NUMPY library we will be using in  -- data anlays, business analys, ml, dl, computer vision, llm , gen ai 
+----- 
+Usage of Numpy -->
+-----
+1- arithmetic operation 
+2- statistical operation 
+3- bitwise operator 
+4- copy & view array 
+5- stacking
+6- matrix operation 
+7- linear algebra
+8- bradcasting 
+9- math operation 
+10- searning, soring , couting 
+
+1d array vs 2d array vs nd array (multidimension) 
+
+Numpy - librar whihc handle multidimension arrya 
+
+==
+why i am teeachin all the concept 
+using these concept we build projject
+project -- gaain skill, subject, 
+project - resume 
+resume -- job market 
+you get interview call -- explain project 
+session -- skils -- project -- resume -- intervier -- fail -- 1st round - 2nd -- final round -- offer 
+offer -- part time jobs 
+
+======= 5th
+
+
+np.arange() -- 1st arg < 2nd argument 
+parameter tunning -- system give parameter 
+hyperparameter tunning - change system parameter 
+np.zeros() -- print only 0 with float if we needt int then we must change the paratmer dtype = int 
+np.one() 
+1d array, 2d a rray, nd array 
+np.random.randn()- generate random number of float array 
+np.random.randint()- generat randome number with in interval (max pass 3 argument) 
+
+when ever you working on any code just calm down and work do not rush to print output 
+just check the inbuild function 
+interview any question take your brain -- brain is your god 
+
+5row 3 colums -- 5 * 3 matrix 
+Image model -- image are covert to matrix 
+we learned how to print rows & colum
+do not confuse between , :
+alwasy rememeber when you mention : -- n-1 formula 
+when , -- specific value as per index 
+
+
+
+=== List of completed topics 
+
+1- Demo session completed & batch formed 
+2- Software installtion -- vs code, anaconda, pycharm community edition 
+3- Basic python we are completed 
+
+
+==== 7th 
+
+
+
+
+
+
+
+
+====================
+==== Error part in python -->
+
+Syntax error -- error happens from user side 
+Name error -- 
+Zero division error --
+Indexing error --
+Value error -- 
+Key error --
+Attribute Error --
+
+
+
+=== LIST OF TOPICS COMPLETED ====
+
+	0- Demo session we are completed ( I will recap for my new learners) 10-15 
+	1- Software installation 
+	2- Github createion 	
+	3- Python introduction 
+	4- python variable & rules to define python variable 
+	5- Python Datatypes 
+	6- Print()
+	7- Python Typecasting 
+
+
+==================
+📂 Course Content :
+https://drive.google.com/drive/u/0/folders/18jHbEiaw6SSBZEuKmioWqM1bjV0no0Y7
+===============
+Online Mentor
+
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+==================
+
+============= ADMIN DETAILS
+Online Admin -- +91 9154861173 Mr.Areef sir & +91- 79979 98956 Meena Mem
+Offline Admin --- Mr. Bheem Sir
+=======
+
+👉 Backup Videos:
+Day-1 https://youtu.be/HENTqWP8p2E
+Day-2 https://youtu.be/ZqP8TThNLBk
+Day-3 https://youtu.be/zGgHflbMcUs
+Day-4 https://youtu.be/bvCz6Is3p28
+Day-5 https://youtu.be/PUMC5DUMriI
+Day-6 https://youtu.be/IjkH2ei_N0o
+Day-7 https://youtu.be/HlCsgE_7198
+Day-8 https://youtu.be/rMJwdlBx2k4
+Day-9 https://youtu.be/D9AecURAO3Q
+
+
+
+
+
+
